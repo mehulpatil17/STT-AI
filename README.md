@@ -7,9 +7,9 @@ This course teaches the **complete software engineering stack for AI/ML developm
 
 ---
 
-## What You'll Learn
+## What I'll Learn
 
-By the end of this course, you will be able to:
+By the end of this course, I will be able to:
 
 | Module | Skills |
 |--------|--------|
@@ -55,22 +55,38 @@ By the end of this course, you will be able to:
 ```
 ## Weekly Topics & Tools
 
-| Week | Topic | Key Tools | Lecture | Lab |
-|:----:|-------|-----------|:-------:|:---:|
-| 1 | Data Collection | curl, requests, BeautifulSoup | [PDF](pdf/week01-data-collection-lecture.pdf) | [PDF](pdf/week01-data-collection-lab.pdf) |
-| 2 | Data Validation | jq, Pydantic, pandas | [PDF](pdf/week02-data-validation-lecture.pdf) | [PDF](pdf/week02-data-validation-lab.pdf) |
-| 3 | Data Labeling | Label Studio, Cohen's Kappa | [PDF](pdf/week03-data-labeling-lecture.pdf) | [PDF](pdf/week03-data-labeling-lab.pdf) |
-| 4 | Optimizing Labeling | modAL, Snorkel, cleanlab | [PDF](pdf/week04-optimizing-labeling-lecture.pdf) | [PDF](pdf/week04-active-learning-lab.pdf) |
-| 5 | Data Augmentation | Albumentations, nlpaug | [PDF](pdf/week05-data-augmentation-lecture.pdf) | [PDF](pdf/week05-data-augmentation-lab.pdf) |
-| 6 | LLM APIs | Gemini API, OpenAI | [PDF](pdf/week06-llm-apis-lecture.pdf) | [PDF](pdf/week06-llm-apis-lab.pdf) |
-| 7 | Model Development | scikit-learn, AutoGluon | [PDF](pdf/week07-model-development-lecture.pdf) | [PDF](pdf/week07-model-development-lab.pdf) |
-| 8 | Reproducibility | Docker, DVC, MLflow | [PDF](pdf/week08-reproducibility-lecture.pdf) | [PDF](pdf/week08-reproducibility-lab.pdf) |
-| 9 | Interactive Demos | Streamlit, Gradio | [PDF](pdf/week09-interactive-demos-lecture.pdf) | [PDF](pdf/week09-interactive-demos-lab.pdf) |
-| 10 | HTTP & APIs | FastAPI, Pydantic | [PDF](pdf/week10-http-apis-lecture.pdf) | [PDF](pdf/week10-http-apis-lab.pdf) |
-| 11 | Git & CI/CD | GitHub Actions, pytest | [PDF](pdf/week11-git-cicd-lecture.pdf) | [PDF](pdf/week11-git-cicd-lab.pdf) |
-| 12 | Edge Deployment | ONNX, Quantization | [PDF](pdf/week12-deployment-constrained-lecture.pdf) | [PDF](pdf/week12-deployment-constrained-lab.pdf) |
-| 13 | Profiling | PyTorch Profiler, AMP | [PDF](pdf/week13-profiling-optimization-lecture.pdf) | [PDF](pdf/week13-profiling-optimization-lab.pdf) |
-| 14 | Monitoring | Evidently AI, Drift | [PDF](pdf/week14-model-monitoring-lecture.pdf) | [PDF](pdf/week14-model-monitoring-lab.pdf) |
-| 15 | Summary | — | [PDF](pdf/week15-course-summary-lecture.pdf) | — |
-
+| Week | Topic | Key Tools | Lab | Lab Solution |
+|:----:|-------|-----------|:---:|:------------:|
+| 1 | Data Collection | curl, requests, BeautifulSoup | [PDF](pdf/week01-data-collection-lab.pdf) | [PDF](pdf/week01-data-collection-solution.pdf) |
+| 2 | Data Validation | jq, Pydantic, pandas | [PDF](pdf/week02-data-validation-lab.pdf) | [PDF](pdf/week02-data-validation-solution.pdf) |
+| 3 | Data Labeling | Label Studio, Cohen's Kappa | [PDF](pdf/week03-data-labeling-lab.pdf) | [PDF](pdf/week03-data-labeling-solution.pdf) |
+| 4 | Optimizing Labeling | modAL, Snorkel, cleanlab | [PDF](pdf/week04-active-learning-lab.pdf) | [PDF](pdf/week04-active-learning-solution.pdf) |
+| 5 | Data Augmentation | Albumentations, nlpaug | [PDF](pdf/week05-data-augmentation-lab.pdf) | [PDF](pdf/week05-data-augmentation-solution.pdf) |
+| 6 | LLM APIs | Gemini API, OpenAI | [PDF](pdf/week06-llm-apis-lab.pdf) | [PDF](pdf/week06-llm-apis-solution.pdf) |
+| 7 | Model Development | scikit-learn, AutoGluon | [PDF](pdf/week07-model-development-lab.pdf) | [PDF](pdf/week07-model-development-solution.pdf) |
+| 8 | Reproducibility | Docker, DVC, MLflow | [PDF](pdf/week08-reproducibility-lab.pdf) | [PDF](pdf/week08-reproducibility-solution.pdf) |
+| 9 | Interactive Demos | Streamlit, Gradio | [PDF](pdf/week09-interactive-demos-lab.pdf) | [PDF](pdf/week09-interactive-demos-solution.pdf) |
+| 10 | HTTP & APIs | FastAPI, Pydantic | [PDF](pdf/week10-http-apis-lab.pdf) | [PDF](pdf/week10-http-apis-solution.pdf) |
+| 11 | Git & CI/CD | GitHub Actions, pytest | [PDF](pdf/week11-git-cicd-lab.pdf) | [PDF](pdf/week11-git-cicd-solution.pdf) |
+| 12 | Edge Deployment | ONNX, Quantization | [PDF](pdf/week12-deployment-constrained-lab.pdf) | [PDF](pdf/week12-deployment-constrained-solution.pdf) |
+| 13 | Profiling | PyTorch Profiler, AMP | [PDF](pdf/week13-profiling-optimization-lab.pdf) | [PDF](pdf/week13-profiling-optimization-solution.pdf) |
+| 14 | Monitoring | Evidently AI, Drift | [PDF](pdf/week14-model-monitoring-lab.pdf) | [PDF](pdf/week14-model-monitoring-solution.pdf) |
+| 15 | Summary | — | — | — |
 ---
+| Assignment | Topic | Key Tools | Assignment | Assignment Solution |
+|:----------:|-------|-----------|:----------:|:------------------:|
+| 1 | Data Collection | curl, requests, BeautifulSoup | [PDF](pdf/week01-data-collection-lab.pdf) | [PDF](pdf/week01-data-collection-solution.pdf) |
+| 2 | Data Validation | jq, Pydantic, pandas | [PDF](pdf/week02-data-validation-lab.pdf) | [PDF](pdf/week02-data-validation-solution.pdf) |
+| 3 | Data Labeling | Label Studio, Cohen's Kappa | [PDF](pdf/week03-data-labeling-lab.pdf) | [PDF](pdf/week03-data-labeling-solution.pdf) |
+| 4 | Optimizing Labeling | modAL, Snorkel, cleanlab | [PDF](pdf/week04-active-learning-lab.pdf) | [PDF](pdf/week04-active-learning-solution.pdf) |
+| 5 | Data Augmentation | Albumentations, nlpaug | [PDF](pdf/week05-data-augmentation-lab.pdf) | [PDF](pdf/week05-data-augmentation-solution.pdf) |
+| 6 | LLM APIs | Gemini API, OpenAI | [PDF](pdf/week06-llm-apis-lab.pdf) | [PDF](pdf/week06-llm-apis-solution.pdf) |
+| 7 | Model Development | scikit-learn, AutoGluon | [PDF](pdf/week07-model-development-lab.pdf) | [PDF](pdf/week07-model-development-solution.pdf) |
+| 8 | Reproducibility | Docker, DVC, MLflow | [PDF](pdf/week08-reproducibility-lab.pdf) | [PDF](pdf/week08-reproducibility-solution.pdf) |
+| 9 | Interactive Demos | Streamlit, Gradio | [PDF](pdf/week09-interactive-demos-lab.pdf) | [PDF](pdf/week09-interactive-demos-solution.pdf) |
+| 10 | HTTP & APIs | FastAPI, Pydantic | [PDF](pdf/week10-http-apis-lab.pdf) | [PDF](pdf/week10-http-apis-solution.pdf) |
+| 11 | Git & CI/CD | GitHub Actions, pytest | [PDF](pdf/week11-git-cicd-lab.pdf) | [PDF](pdf/week11-git-cicd-solution.pdf) |
+| 12 | Edge Deployment | ONNX, Quantization | [PDF](pdf/week12-deployment-constrained-lab.pdf) | [PDF](pdf/week12-deployment-constrained-solution.pdf) |
+| 13 | Profiling | PyTorch Profiler, AMP | [PDF](pdf/week13-profiling-optimization-lab.pdf) | [PDF](pdf/week13-profiling-optimization-solution.pdf) |
+| 14 | Monitoring | Evidently AI, Drift | [PDF](pdf/week14-model-monitoring-lab.pdf) | [PDF](pdf/week14-model-monitoring-solution.pdf) |
+| 15 | Summary | — | — | — |
