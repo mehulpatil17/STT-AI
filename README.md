@@ -56,20 +56,20 @@ By the end of this course, I will be able to:
 ## Weekly labs
 | Week | Topic | Key Tools | Lab | Lab Solution |
 |:----:|-------|-----------|:---:|:------------:|
-| 1 | Data Collection | curl, requests, BeautifulSoup | [ipynb](pdf/week01-data-collection-lab.ipynb) | [ipynb](week01-data-collection-lab-solved.ipynb) |
-| 2 | Data Validation | jq, Pydantic, pandas | [ipynb](pdf/week02-data-validation-lab.ipynb) | [ipynb](pdf/week02-data-validation-solution.ipynb) |
-| 3 | Data Labeling | Label Studio, Cohen's Kappa | [ipynb](pdf/week03-data-labeling-lab.ipynb) | [ipynb](pdf/week03-data-labeling-solution.ipynb) |
-| 4 | Optimizing Labeling | modAL, Snorkel, cleanlab | [ipynb](pdf/week04-active-learning-lab.ipynb) | [ipynb](pdf/week04-active-learning-solution.ipynb) |
-| 5 | Data Augmentation | Albumentations, nlpaug | [ipynb](pdf/week05-data-augmentation-lab.ipynb) | [ipynb](pdf/week05-data-augmentation-solution.ipynb) |
-| 6 | LLM APIs | Gemini API, OpenAI | [ipynb](pdf/week06-llm-apis-lab.ipynb) | [ipynb](pdf/week06-llm-apis-solution.ipynb) |
-| 7 | Model Development | scikit-learn, AutoGluon | [ipynb](pdf/week07-model-development-lab.ipynb) | [ipynb](pdf/week07-model-development-solution.ipynb) |
-| 8 | Reproducibility | Docker, DVC, MLflow | [ipynb](pdf/week08-reproducibility-lab.ipynb) | [ipynb](pdf/week08-reproducibility-solution.ipynb) |
-| 9 | Interactive Demos | Streamlit, Gradio | [ipynb](pdf/week09-interactive-demos-lab.ipynb) | [ipynb](pdf/week09-interactive-demos-solution.ipynb) |
-| 10 | HTTP & APIs | FastAPI, Pydantic | [ipynb](pdf/week10-http-apis-lab.ipynb) | [ipynb](pdf/week10-http-apis-solution.ipynb) |
-| 11 | Git & CI/CD | GitHub Actions, pytest | [ipynb](pdf/week11-git-cicd-lab.ipynb) | [ipynb](pdf/week11-git-cicd-solution.ipynb) |
-| 12 | Edge Deployment | ONNX, Quantization | [ipynb](pdf/week12-deployment-constrained-lab.ipynb) | [ipynb](pdf/week12-deployment-constrained-solution.ipynb) |
-| 13 | Profiling | PyTorch Profiler, AMP | [ipynb](pdf/week13-profiling-optimization-lab.ipynb) | [ipynb](pdf/week13-profiling-optimization-solution.ipynb) |
-| 14 | Monitoring | Evidently AI, Drift | [ipynb](pdf/week14-model-monitoring-lab.ipynb) | [ipynb](pdf/week14-model-monitoring-solution.ipynb) |
+| 1 | Data Collection | curl, requests, BeautifulSoup | [ipynb](LABS/Week 1/week01-data-collection-lab.ipynb) | [ipynb](LABS/Week 1/week01-data-collection-lab-solved.ipynb) |
+| 2 | Data Validation | jq, Pydantic, pandas | [ipynb](LABS/Week 2/week02-data-validation-lab.ipynb) | [ipynb](LABS/Week 2/week02-data-validation-solution.ipynb) |
+| 3 | Data Labeling | Label Studio, Cohen's Kappa | [ipynb](LABS/Week 3/week03-data-labeling-lab.ipynb) | [ipynb](LABS/Week 3/week03-data-labeling-solution.ipynb) |
+| 4 | Optimizing Labeling | modAL, Snorkel, cleanlab | [ipynb](LABS/Week 4/week04-active-learning-lab.ipynb) | [ipynb](LABS/Week 4/week04-active-learning-solution.ipynb) |
+| 5 | Data Augmentation | Albumentations, nlpaug | [ipynb](LABS/Week 5/week05-data-augmentation-lab.ipynb) | [ipynb](LABS/Week 5/week05-data-augmentation-solution.ipynb) |
+| 6 | LLM APIs | Gemini API, OpenAI | [ipynb](LABS/Week 6/week06-llm-apis-lab.ipynb) | [ipynb](LABS/Week 6/week06-llm-apis-solution.ipynb) |
+| 7 | Model Development | scikit-learn, AutoGluon | [ipynb](LABS/Week 7/week07-model-development-lab.ipynb) | [ipynb](LABS/Week 7/week07-model-development-solution.ipynb) |
+| 8 | Reproducibility | Docker, DVC, MLflow | [ipynb](LABS/Week 8/week08-reproducibility-lab.ipynb) | [ipynb](LABS/Week 8/week08-reproducibility-solution.ipynb) |
+| 9 | Interactive Demos | Streamlit, Gradio | [ipynb](LABS/Week 9/week09-interactive-demos-lab.ipynb) | [ipynb](LABS/Week 9/week09-interactive-demos-solution.ipynb) |
+| 10 | HTTP & APIs | FastAPI, Pydantic | [ipynb](LABS/Week 10/week10-http-apis-lab.ipynb) | [ipynb](LABS/Week 10/week10-http-apis-solution.ipynb) |
+| 11 | Git & CI/CD | GitHub Actions, pytest | [ipynb](LABS/Week 11/week11-git-cicd-lab.ipynb) | [ipynb](LABS/Week 11/week11-git-cicd-solution.ipynb) |
+| 12 | Edge Deployment | ONNX, Quantization | [ipynb](LABS/Week 12/week12-deployment-constrained-lab.ipynb) | [ipynb](LABS/Week 12/week12-deployment-constrained-solution.ipynb) |
+| 13 | Profiling | PyTorch Profiler, AMP | [ipynb](LABS/Week 13/week13-profiling-optimization-lab.ipynb) | [ipynb](LABS/Week 13/week13-profiling-optimization-solution.ipynb) |
+| 14 | Monitoring | Evidently AI, Drift | [ipynb](LABS/Week 14/week14-model-monitoring-lab.ipynb) | [ipynb](LABS/Week 14/week14-model-monitoring-solution.ipynb) |
 | 15 | Summary | — | — | — |
 ---
 
