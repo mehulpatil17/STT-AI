@@ -57,7 +57,7 @@ By the end of this course, I will be able to:
 | Week | Topic | Key Tools | Lab | Lab Solution |
 |:----:|-------|-----------|:---:|:------------:|
 | 1 | Data Collection | curl, requests, BeautifulSoup | [ipynb](LABS/Week 1/week01-data-collection-lab.ipynb) | [ipynb](LABS/Week 1/week01-data-collection-lab-solved.ipynb) |
-| 2 | Data Validation | jq, Pydantic, pandas | [ipynb](LABS/Week 2/week02-data-validation-lab.ipynb) | [ipynb](LABS/Week 2/week02-data-validation-solution.ipynb) |
+| 2 | Data Validation | jq, Pydantic, pandas | [ipynb](LABS/Week 2/week02-data-validation-lab.ipynb) | [ipynb](ipynb/week02-data-validation-solution.ipynb) |
 | 3 | Data Labeling | Label Studio, Cohen's Kappa | [ipynb](LABS/Week 3/week03-data-labeling-lab.ipynb) | [ipynb](LABS/Week 3/week03-data-labeling-solution.ipynb) |
 | 4 | Optimizing Labeling | modAL, Snorkel, cleanlab | [ipynb](LABS/Week 4/week04-active-learning-lab.ipynb) | [ipynb](LABS/Week 4/week04-active-learning-solution.ipynb) |
 | 5 | Data Augmentation | Albumentations, nlpaug | [ipynb](LABS/Week 5/week05-data-augmentation-lab.ipynb) | [ipynb](LABS/Week 5/week05-data-augmentation-solution.ipynb) |
