@@ -64,7 +64,7 @@ By the end of this course, I will be able to:
 | 6 | LLM APIs | Gemini API, OpenAI | [ipynb](LABS/Week%206/week06-llm-apis-lab.ipynb) | [ipynb](LABS/Week%206/week06-llm-apis-lab-solved.ipynb) |
 | 7 | Model Development | scikit-learn, AutoGluon | [ipynb](LABS/Week%207/week07-model-development-lab.ipynb) | [ipynb](LABS/Week%207/week07-model-development-lab-solved.ipynb) |
 | 8 | Reproducibility | Docker, DVC, MLflow | [ipynb](LABS/Week%208/week08-Hyperparameter-Tuning-lab.ipynb) | [ipynb](LABS/Week%208/week08-Hyperparameter-Tuning-lab-solved.ipynb) |
-| 9 | Interactive Demos | Streamlit, Gradio | [ipynb](LABS/Week%209/week09-interactive-demos-lab.ipynb) | [ipynb](LABS/Week%209/week09-interactive-demos-solved.ipynb) |
+| 9 | Interactive Demos | Streamlit, Gradio | [ipynb](LABS/Week%209/week09-lab-reproducibility-docker-lab.ipynb) | [ipynb](LABS/Week%209/week09-lab-reproducibility-docker-lab-solved.ipynb) |
 | 10 | HTTP & APIs | FastAPI, Pydantic | [ipynb](LABS/Week%2010/week10-http-apis-lab.ipynb) | [ipynb](LABS/Week%2010/week10-http-apis-solved.ipynb) |
 | 11 | Git & CI/CD | GitHub Actions, pytest | [ipynb](LABS/Week%2011/week11-git-cicd-lab.ipynb) | [ipynb](LABS/Week%2011/week11-git-cicd-solved.ipynb) |
 | 12 | Edge Deployment | ONNX, Quantization | [ipynb](LABS/Week%2012/week12-deployment-constrained-lab.ipynb) | [ipynb](LABS/Week%2012/week12-deployment-constrained-solved.ipynb) |
