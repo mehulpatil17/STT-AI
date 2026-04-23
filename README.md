@@ -74,9 +74,9 @@ By the end of this course, I will be able to:
 ---
 
 ## Assignments 
-| Assignment | Topic | Key Tools | Assignment | Assignment Solution |
-|:----------:|-------|-----------|:----------:|:------------------:|
-| 1 | Data Collection | curl, requests, BeautifulSoup | [PDF](pdf/week01-data-collection-lab.pdf) | [ipynb](week01-data-collection-lab-solved.ipynb) |
-| 2 | Data Validation | jq, Pydantic, pandas | [PDF](pdf/week02-data-validation-lab.pdf) | [PDF](pdf/week02-data-validation-solution.pdf) |
-| 3 | Data Labeling | Label Studio, Cohen's Kappa | [PDF](pdf/week03-data-labeling-lab.pdf) | [PDF](pdf/week03-data-labeling-solution.pdf) |
-| 4 | Optimizing Labeling | modAL, Snorkel, cleanlab | [PDF](pdf/week04-active-learning-lab.pdf) | [PDF](pdf/week04-active-learning-solution.pdf) |
+| Assignment | Topic | Key Tools | Assignment | 
+|:----------:|-------|-----------|:----------:|
+| 1 | Data Collection | curl, requests, BeautifulSoup | [Folder](Assignments/assignment%201) | 
+| 2 | Data Validation | jq, Pydantic, pandas | [Folder](Assignments/assignment%202) | 
+| 3 | Data Labeling | Label Studio, Cohen's Kappa | [Folder](Assignments/assignment%203) |  
+| 4 | Optimizing Labeling | modAL, Snorkel, cleanlab | [Folder](Assignments/assignment%204) | 
